@@ -1,3 +1,5 @@
+# Downloaded instead of forked, original repository is [here](https://github.com/psoder3/Program-Your-Own-Chess)
+
 # Program-Your-Own-Chess
 
 ## Purpose
